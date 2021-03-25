@@ -63,19 +63,19 @@ const Home = () => {
             </a>
           </Col>
           <Col md className="wrapper m-2">
-            <a href="/curations/4">
-              <Placard placardcontent="ReactJS" />
+            <a href="/curations/1">
+              <Placard placardcontent="Python" />
             </a>
           </Col>
         </Row>
         <Row className="pt-1">
           <Col md className="wrapper m-2">
-            <a href="/curations/1">
-              <Placard placardcontent="Python" />
+            <a href="/">
+              <Placard placardcontent="ReactJS" />
             </a>
           </Col>
           <Col md className="wrapper m-2">
-            <a href="/curations/3">
+            <a href="/">
               <Placard placardcontent="Javascript" />
             </a>
           </Col>
