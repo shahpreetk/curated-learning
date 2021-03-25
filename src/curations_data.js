@@ -6,7 +6,7 @@ export const curations_data = [
     _path_description:
       "Python is an interpreted, high-level and general-purpose programming language.",
     _path_tags: "#python, #programming, #python3",
-    _path_last_updated_on: "December 16, 2020",
+    _path_last_updated_on: "March 24, 2021",
     _path_title_image:
       "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png",
     _beginner_level: [
@@ -115,7 +115,7 @@ export const curations_data = [
     _path_description:
       "HTML is the standard markup language to display documents in a web browser and CSS is the way to style HTML markup.",
     _path_tags: "#html, #css, #htmlcss, #webdev",
-    _path_last_updated_on: "December 16, 2020",
+    _path_last_updated_on: "March 25, 2021",
     _path_title_image:
       "https://miro.medium.com/max/792/1*lJ32Bl-lHWmNMUSiSq17gQ.png",
     _beginner_level: [
